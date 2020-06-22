@@ -29,7 +29,7 @@ Projeto que consume a [api do github]() para listar os repositórios e ao clicar
 
 - [x] ~O usuário pode ver uma lista de nomes de pessoas organizados verticalmente em um painel de resumo na página.~
 - [x] ~O usuário pode clicar em um nome na lista para atualizar um painel adjacente na página com o nome , descrição, número de likes e link para o respositório~
-- [x] ~ usuário pode clicar em outro nome na lista para atualizar o painel de detalhes com as informações~
+- [x] ~usuário pode clicar em outro nome na lista para atualizar o painel de detalhes com as informações~
 
 ## 👨‍💻 Tecnologias utilizadas
 
